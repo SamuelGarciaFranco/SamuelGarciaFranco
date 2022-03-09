@@ -3,8 +3,8 @@
 <p><em>Desarrollador Jr <a href="http://www.unb.br">Instituto Tecnológico del Istmo</a></br>SysAdmin <a href="https://www.thoughtworks.com">ThoughtWorks</a>
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/sgarcia)
+[![Twitter: samuelgf](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/samuelgf)
+[![Linkedin: samuelgf](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/samuelgf)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
@@ -29,6 +29,6 @@ const thai = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@Thaiane](https://github.com/SamuelGarciaFranco)
 
 
