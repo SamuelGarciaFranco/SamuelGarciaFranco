@@ -1,11 +1,11 @@
 <h2> Hola, Mi nombre es Samuel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Desarrollador Jr <a href="http://www.unb.br">Instituto Tecnológico del Istmo</a></br>SysAdmin <a href="https://www.thoughtworks.com">ThoughtWorks</a>
+<p><em>Desarrollador Jr <a href="http://www.unb.br">Instituto Tecnológico del Istmo</a></br>SysAdmin <a href="https://www.thoughtworks.com">samuelgf</a>
 </em></p>
 
 [![Twitter: samuelgf](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/samuelgf)
-[![Linkedin: samuelgf](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/samuelgf)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Linkedin: samuelgf](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelgf/)](https://www.linkedin.com/in/samuelgf)
+[![GitHub samuelgf](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
 ### <img src="https://media0.giphy.com/media/Ho8klqe5oPLa8g6BNe/giphy.gif?cid=ecf05e477o37jjfvmpzuggb1cg5678b30nn8wgc73xxscf2z&rid=giphy.gif&ct=g" width="50"> A little more about me...  
