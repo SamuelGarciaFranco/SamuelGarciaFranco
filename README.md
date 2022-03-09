@@ -1,5 +1,5 @@
 <h2> Hola, Mi nombre es Samuel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47u300hc4zr62bcyjnpoahxawubqfkcyruv6cwsnnl&rid=giphy.gif&ct=g" width="230">
 <p><em>Desarrollador Jr <a href="http://www.unb.br">Instituto Tecnológico del Istmo</a></br>SysAdmin <a href="https://www.thoughtworks.com">samuelgf</a>
 </em></p>
 
