@@ -5,7 +5,7 @@
 
 [![Twitter: samuelgf](https://img.shields.io/twitter/follow/samuelgf?style=social)](https://twitter.com/samuelgf)
 [![Linkedin: samuelgf](https://img.shields.io/badge/-samuelgf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelgf/)](https://www.linkedin.com/in/samuelgf)
-[![GitHub samuelgf](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/samuelgf)
+[![GitHub samuelgf](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/SamuelGarciaFranco)
 
 
 ### <img src="https://media0.giphy.com/media/Ho8klqe5oPLa8g6BNe/giphy.gif?cid=ecf05e477o37jjfvmpzuggb1cg5678b30nn8wgc73xxscf2z&rid=giphy.gif&ct=g" width="50"> A little more about me...  
